@@ -22,4 +22,4 @@ export default function Notifications({ items }: Props) {
     </div>
   );
 }
-EOF
+
