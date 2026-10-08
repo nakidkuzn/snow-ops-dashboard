@@ -131,4 +131,4 @@ export default function SiteStatus({ sites, onSync }: Props) {
     </div>
   );
 }
-EOF
+
