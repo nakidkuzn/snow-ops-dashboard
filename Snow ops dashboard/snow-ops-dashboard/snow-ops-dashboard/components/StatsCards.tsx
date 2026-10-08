@@ -26,4 +26,4 @@ export default function StatsCards({ total, active, pending, completed, issues }
     </div>
   );
 }
-EOF
+
