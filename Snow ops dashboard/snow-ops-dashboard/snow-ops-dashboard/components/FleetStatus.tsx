@@ -127,4 +127,4 @@ export default function FleetStatus({ vehicles }: Props) {
     </div>
   );
 }
-EOF
+
